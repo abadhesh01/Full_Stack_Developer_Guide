@@ -49,7 +49,7 @@ CSS Tutorial:
 Angular Tutorials:
 ------------------
 (1 [Intellipaat {English}])                     https://www.youtube.com/watch?v=gNHgaUVoT4Y
-(2 [CodeWithHarry] {Hindi})                     https://www.youtube.com/watch?v=0LhBvp8qpro
+(2 [CodeWithHarry {Hindi}])                     https://www.youtube.com/watch?v=0LhBvp8qpro
 
 
 
@@ -62,7 +62,11 @@ Spring Boot Tutorials:
 (3 [Infybuzz {English}])                        https://www.youtube.com/playlist?list=PLt9Fcek3r70R2EG0gYAm_ZUkjXPznmUiw                  (Course)
 (4 [Java Guides {English}])                     https://www.youtube.com/watch?v=th3uIP7D8nk                                               (Restful Web Services)
                                                 https://www.youtube.com/watch?v=xWnU6x5BxyA                                               (Spring Exception Handling)
-(5 [Java Techie {English}]                      https://www.youtube.com/watch?v=IyzC1kkHZ-I                                               (Spring Security)         
+(5 [Dev2Prod Coding {English}])                 https://www.youtube.com/watch?v=2fvUrpYG95w                                               [Entity Mapping (OneToOne & OneToMany)]
+                                                https://www.youtube.com/watch?v=u2yrPDW32eQ                                               (Custom Query Part-1)
+                                                https://www.youtube.com/watch?v=1Qn0IMgO0H0                                               (Custom Query Part-2) 
+(6 [Daily Code Buffer {English}])               https://www.youtube.com/watch?v=tDZPdovCH4I                                               [Spring Security (Basic Security)] 
+
 
 
 
