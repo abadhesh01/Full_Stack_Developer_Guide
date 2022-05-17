@@ -58,19 +58,19 @@ Angular Tutorials:
 Spring Boot Tutorials:
 ----------------------
 (1 [Telusko {English}])                         https://www.youtube.com/playlist?list=PLsyeobzWxl7oA8QOlMtQsRT_I7Rx2hoX4                  (Course)
+
 (2 [Java Brains {English}])                     https://www.youtube.com/playlist?list=PLqq-6Pq4lTTbx8p2oCgcAQGQyqN8XeA1x                  (Course)
+
 (3 [Infybuzz {English}])                        https://www.youtube.com/playlist?list=PLt9Fcek3r70R2EG0gYAm_ZUkjXPznmUiw                  (Course)
+
 (4 [Java Guides {English}])                     https://www.youtube.com/watch?v=th3uIP7D8nk                                               (Restful Web Services)
                                                 https://www.youtube.com/watch?v=xWnU6x5BxyA                                               (Spring Exception Handling)
+
 (5 [Dev2Prod Coding {English}])                 https://www.youtube.com/watch?v=2fvUrpYG95w                                               [Entity Mapping (OneToOne & OneToMany)]
                                                 https://www.youtube.com/watch?v=u2yrPDW32eQ                                               (Custom Query Part-1)
-                                                https://www.youtube.com/watch?v=1Qn0IMgO0H0                                               (Custom Query Part-2) 
-(6 [Daily Code Buffer {English}])               https://www.youtube.com/watch?v=tDZPdovCH4I                                               [Spring Security (Basic Security)] 
+                                                https://www.youtube.com/watch?v=1Qn0IMgO0H0                                               (Custom Query Part-2)
 
+(6 [B2 Tech] {English})                         https://www.youtube.com/watch?v=VRQBO0vXX3w                                               (Spring Data JPA Query or Finder Methods)
+                                  https://www.javaguides.net/2018/11/spring-data-jpa-query-creation-from-method-names.html?m=1            [Additional Guide]    
 
-
-
-
-Spring Boot(Rest API) Session by Rajkumar Sibasubhramanyam  Sir(10 Feb 2022 and 11 Feb 2022) GitHub:
-----------------------------------------------------------------------------------------------------
-https://github.com/ishamuruga/opensamples/tree/main/JEE%2Fmybankapi
+(7 [Daily Code Buffer {English}])               https://www.youtube.com/watch?v=tDZPdovCH4I                                               [Spring Security (Basic Security)] 
